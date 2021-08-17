@@ -42,6 +42,7 @@ def printMenu():
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
+    print("3")
     # TODO: Modificaciones para el laboratorio 1.
     print("0- Salir")
 
